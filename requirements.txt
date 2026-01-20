@@ -6,3 +6,4 @@ sentencepiece
 numpy
 pandas
 reportlab
+bcrypt
