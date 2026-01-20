@@ -8,3 +8,4 @@ pandas
 reportlab
 bcrypt
 python-dotenv
+scikit-learn
