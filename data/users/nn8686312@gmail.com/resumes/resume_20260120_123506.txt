@@ -1,0 +1,44 @@
+J Charitha Shree
+Email: nn8686312@gmail.com
+LinkedIn: https://www.linkedin.com/in/j-charitha-shree-400567359/
+GitHub: https://github.com/jcs8-8
+
+SKILLS
+• Java
+• Spring Boot
+• Hibernate/JPA
+• REST APIs
+• SQL
+• MySQL/PostgreSQL
+• JUnit
+• Maven/Gradle
+• Git
+• Design patterns
+• Microservices
+• API integration
+• Performance tuning
+• Exception handling
+• Threading/Concurrency
+• CI/CD
+
+EXPERIENCE
+Smart India Hackathon (SIH) 2025 internal round at Kishkinda University demonstrates strong innovation, teamwork, and technical skills, as you were a core member in a top 15 team, contributing to idea development, technical execution, and presentation, which are key competencies for solving real-world problems through projects like those in SIH.
+
+PROJECTS
+Hospital Management System (Java Stack)
+Technologies: Java, JDBC, MySQL, HTML, CSS, JavaScript.
+Highlights: Responsive design, core modules (patients, doctors, appointments), robust backend integration. 
+Wanderlust (MERN-like Stack)
+Technologies: Express, MongoDB, EJS, Bootstrap.
+Highlights: Airbnb-inspired, authentication, CRUD, listing management, smooth UX with Bootstrap. 
+Zerodha Clone (MERN Stack)
+Technologies: React, Node.js, Express, MongoDB.
+Highlights: Portfolio/trading simulation, REST API integration for real-time data visualization. 
+Grocery Billing System (Python)
+Technology: Python.
+Highlights: Console-based, itemized billing, efficient data handling, reusable code.
+
+EDUCATION
+Kishkinda university Bachelor of Engineering in computer sciences
+2023– 2027 | Ballari, Karnataka
+CGPA: 8.9 / 10.0

@@ -1,0 +1,72 @@
+J Charitha Shree
+Email: nn8686312@gmail.com
+LinkedIn: https://www.linkedin.com/in/j-charitha-shree-400567359/
+GitHub: https://github.com/jcs8-8
+
+SKILLS
+• Java
+• Spring Boot
+• Hibernate/JPA
+• REST APIs
+• SQL
+• MySQL/PostgreSQL
+• JUnit
+• Maven/Gradle
+• Git
+• Design patterns
+• Microservices
+• API integration
+• Performance tuning
+• Exception handling
+• Threading/Concurrency
+• CI/CD
+
+EXPERIENCE
+SMARTINDIAHACKATHON(SIH)-INTERNALROUND |
+TEAM MEMBER
+2025 | Kishkinda University, Ballari
+• ParticipatedintheSmartIndiaHackathon(InternalLevel)asacore
+teammember.
+• Selectedamongthetop15teamsforinnovativeproblem-solvingand
+project development.
+• Contributedtoideadesign,technicaldevelopment,andpresentation
+of theproject.
+
+PROJECTS
+HOSPITALMANAGEMENTSYSTEM |FULLSTACKPROJECT
+Technologies: HTML, CSS, JavaScript, Java, JDBC, MySQL
+• DevelopedaresponsiveHospitalManagementSystemintegratinga
+Java+JDBCbackendwithaMySQLdatabase.
+• Implementedmodulesformanagingpatients,doctors,and
+appointmentsefficiently.
+• Designedanintuitiveanduser-friendlyfrontendusingHTML,CSS,
+andJavaScript.
+WANDERLUST |FULLSTACKWEBAPPLICATION
+Technologies: Express, MongoDB, EJS, Bootstrap
+• BuiltatravelaccommodationwebappinspiredbyAirbnbusing
+Express, MongoDB,andEJS.
+• Implementedauthentication,CRUDoperations,andlisting
+management.
+• Focusedonresponsivedesignandsmoothuserexperiencewith
+Bootstrap.
+ZERODHACLONE |STOCKTRADINGSIMULATIONPLATFORM
+Technologies: React, Node.js, Express, MongoDB
+• DevelopedacloneofZerodhatosimulateportfolioandtrading
+experiences.
+• UsedReactforfrontendandNode.js+Expressforbackendwith
+MongoDBdatabase.
+• IntegratedRESTAPIsforfetchingandvisualizingreal-timedata.
+GROCERYBILLINGSYSTEM |CONSOLE-BASEDAPPLICATION
+Technology: Python
+• CreatedaPython-basedgrocerybillingapplicationforitemizedbill
+generation.
+• Includedfunctionalities for productaddition, total calculation, and
+receipt display.
+• Emphasizedcodereusabilityandefficientdatahandling
+
+EDUCATION
+KISHKINDAUNIVERSITY
+BACHELOR OF ENGINEERING IN
+COMPUTER SCIENCE
+2023– 2027 | Ballari, Karnataka
+CGPA: 8.9 / 10.0

@@ -1,0 +1,44 @@
+# ---------------- Python ----------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# ---------------- Virtual Environment ----------------
+venv/
+env/
+.venv/
+
+# ---------------- Streamlit ----------------
+.streamlit/
+*.log
+
+# ---------------- Hugging Face ----------------
+.cache/
+hf_cache/
+transformers_cache/
+
+# ---------------- Model / Large Files ----------------
+*.bin
+*.pt
+*.pth
+
+# ---------------- PDFs & Generated Files ----------------
+*.pdf
+output/
+generated/
+versions/
+
+# ---------------- Environment Variables ----------------
+.env
+
+# ---------------- OS ----------------
+.DS_Store
+Thumbs.db
+
+# ---------------- IDE ----------------
+.vscode/
+.idea/
+*.swp

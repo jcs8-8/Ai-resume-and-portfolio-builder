@@ -1,0 +1,1 @@
+ J Charitha Shree  nn8686312@gmail.com  Skills Java, Spring Boot, Hibernate/JPA, REST APIs, SQL, MySQL/PostgreSQL, JUnit, Maven/Gradle, Git, Design patterns, Microservices, API integration, Performance tuning, Exception handling, Threading/Concurrency, CI/CD  Projects
